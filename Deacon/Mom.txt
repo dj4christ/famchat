@@ -1,5 +1,1 @@
-This is the start of your chat!
-  Deacon: Hi Mom!
-Mom: Hey!
-  Deacon: How are you, Mom?
-Mom: I'm good, how are you?
+This is the content of the file.
