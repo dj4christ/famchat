@@ -1,3 +1,3 @@
-This is the start of your chat!\n
-\tDeacon: Hi Mom!\n
-Mom: Hey!\n
+This is the start of your chat!
+  Deacon: Hi Mom!
+Mom: Hey!
